@@ -1,0 +1,25 @@
+{
+  "contracts": {
+    "DAPP": "25249d8cd1b55f85ad099ae5b92c4301bfa658b4",
+    "LinkToken": "49e7bae2df618e81d877632c6ad55872ff2ce801",
+    "MockDai": "a18dc62889666b324d35b52983701317fe7cf608",
+    "MockOracle": "7f09d8b642ed1af8d9a3e094ab619f25db4db23c",
+    "MockV3Aggregator": "9e734e161b5cafcca52a917f10266f5a8bc05b28",
+    "MockWeth": "4c70c657cb800fbe3d2121ba20cc30f77939976f",
+    "OpenZeppelin/openzeppelin-contracts@4.5.0/ERC20": "15aeefd481ce94e0891603de0eb35048b803d199",
+    "TokenFarm": "76407558d45ba3bb1f057262761eaa356054bd25",
+    "smartcontractkit/chainlink@1.2.1/BasicToken": "92084ac5279a2a3db988d9e01d7e6d3e3a4dab8d",
+    "smartcontractkit/chainlink@1.2.1/SafeMathChainlink": "3b4158955f564edb18bd7a8ffdb49859c904f0b7",
+    "smartcontractkit/chainlink@1.2.1/StandardToken": "7f21b0e2f1d1fcf89f4466183c9e73bc3cf77276"
+  },
+  "tests": {
+    "tests/unit/test_token_farm.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "FF",
+      "sha1": "dd8989dbf141ed52a672f12ac92481ed640c2320",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
